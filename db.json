@@ -1,0 +1,191 @@
+{
+  "posts":[
+ {
+    "cse": [
+    {
+    "coursename":"Theory of Computation and Compiler Design",
+     "courseid":"603f5ef0ea3b8c0004900a4a"
+    },
+    {
+    "coursename":"Data Structures and Algorithms",
+    "courseid":"603f82d34b48f40004358e53"
+    },
+    {
+    "coursename":"PROBLEM SOLVING AND PROGRAMMING",
+    "courseid":"603fca519ad6140004d39c49"
+    },
+    {
+    "coursename":"BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+    "courseid":"603fbdfa9ad6140004d39c2e"
+    },
+    {
+    "coursename":"Database Management Systems ",
+    "courseid":"603fcfcd9ad6140004d39c67"
+    },
+    {
+    "coursename":"Engineering Chemistry",
+    "courseid":"603fd09b18e57b00049501eb"
+    },
+    {
+    "coursename":"Applications of Differential and Difference Equations",
+    "courseid":"603fad309ad6140004d39c13"
+    },
+    {
+    "coursename":"Data Structures and Algorithms",
+    "courseid":"603fe2dc18e57b0004950237"
+    },
+    {
+    "coursename":"JAVA PROGRAMMING",
+    "courseid":"603ff00e18e57b0004950276"
+    },
+    {
+    "coursename":"Computer Architecture and Organization ",
+    "courseid":"603ff2e918e57b000495027f"
+    },
+    {
+    "coursename":"Network and Communication",
+    "courseid":"603ff3ad18e57b0004950288"
+    },
+    {
+    "coursename":"Digital Logic and Design",
+    "courseid":"604083df252ee800045f54df"
+    },
+    {
+    "coursename":"Applied Linear Algebra",
+    "courseid":"603fe70a18e57b0004950252"
+    },
+    {
+    "coursename":"Discrete Mathematics and Graph Theory",
+    "courseid":"6040a3a8c3835300045f0011"
+    },
+    {
+    "coursename":"Internet and web programming",
+    "courseid":"603fd6ac18e57b000495020b"
+    },
+    {
+    "coursename":"Cryptography Fundamentals",
+    "courseid":"6040af17c3835300045f002d"
+    },
+    {
+    "coursename":"Operating Systems",
+    "courseid":"6040971c252ee800045f55cd"
+    }
+    ],
+
+ "it": [
+     {
+    "coursename":"Data Structures and Algorithms",
+    "courseid":"603f82d34b48f40004358e53"
+    },
+    {
+    "coursename":"Web Technologies",
+    "courseid":"603f97319ad6140004d39bda"
+    },
+
+    {
+    "coursename":"Network and Information Security",
+    "courseid":"603fcd9b9ad6140004d39c5d"
+    },
+    {
+    "coursename":"Applied Linear Algebra",
+    "courseid":"603fe70a18e57b0004950252"
+    },
+    {
+    "coursename":"Data Communication and Computer Networks",
+    "courseid":"603fef7d18e57b000495026d"
+    },
+
+    {
+    "coursename":"JAVA PROGRAMMING",
+    "courseid":"603ff00e18e57b0004950276"
+    },
+    {
+    "coursename":"Database management Systems",
+    "courseid":"6040728ec5688500043a367d"
+    },
+    {
+    "coursename":"Theory of Computation",
+    "courseid":"60407908252ee800045f5499"
+    },
+    {
+    "coursename":"Computer Architecture and Organization",
+    "courseid":"6040854d252ee800045f54e8"
+    },
+    {
+    "coursename":"DIGITAL LOGIC AND MICROPROCESSOR",
+    "courseid":"60408893252ee800045f5519"
+    },
+
+    {
+    "coursename":"Applications of Differential and Difference Equations",
+    "courseid":"603fad309ad6140004d39c13"
+    },
+    {
+    "coursename":"BASIC ELECTRICAL AND ELECTRONICS ENGINEERING",
+    "courseid":"603fbdfa9ad6140004d39c2e"
+    },
+
+    {
+    "coursename":"Software Engineering-Principles and Practices",
+    "courseid":"6040920a252ee800045f5552"
+    },
+    {
+    "coursename":"Operating Systems",
+    "courseid":"6040971c252ee800045f55cd"
+    },
+    {
+    "coursename":"Discrete Mathematics and Graph Theory",
+    "courseid":"6040a3a8c3835300045f0011"
+    }
+ ],
+ "uc":
+ [
+    {
+    "coursename":"Engineering Physics",
+    "courseid":"603fd94918e57b0004950221"
+    },
+    {
+    "coursename":"Introduction to Innovative Projects",
+    "courseid":"603fd66218e57b0004950202"
+    },
+    {
+    "coursename":"Statistics for Engineers",
+    "courseid":"604067c9c5688500043a3664"
+    },
+    {
+    "coursename":"COMPLEX VARIABLES AND PARTIAL DIFFERENTIAL EQUATION",
+    "courseid":"603fa37a9ad6140004d39c01"
+    },
+
+    {
+    "coursename":"APPLIED NUMERICAL METHODS",
+    "courseid":"603fab009ad6140004d39c0a"
+    },
+
+    {
+    "coursename":"Applications of Differential and Difference Equations",
+    "courseid":"603fad309ad6140004d39c13"
+    },
+    {
+    "coursename":"Discrete Mathematics and Graph Theory",
+    "courseid":"6040a3a8c3835300045f0011"
+    },
+    {
+    "coursename":"Engineering Chemistry",
+    "courseid":"603fd09b18e57b00049501eb"
+    },
+    {
+    "coursename":"PROBLEM SOLVING AND PROGRAMMING",
+    "courseid":"603fca519ad6140004d39c49"
+    }
+ ]
+}
+  ],
+  "comments" : [
+    {
+      "id": 0,
+      "content": "Wow such content!",
+      "username": "zero_cool"
+    }
+  ]
+}
