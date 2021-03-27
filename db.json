@@ -1,6 +1,7 @@
 {
   "posts":[
  {
+    "branch":["cse","it","uc"]
     "cse": [
     {
     "coursename":"Theory of Computation and Compiler Design",
